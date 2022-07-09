@@ -3,7 +3,7 @@ Very simple Python script to know your Username & Password,
 
 Just clone it & run it.
 
-> git clone https://github.com/imohafa/GetUPass.git
+> git clone https://github.com/moodix94/GetUPass.git
 #
 > cd getupass 
 #
