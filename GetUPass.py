@@ -1,7 +1,7 @@
 import getpass
 import pwd
 
-print("     GetUPass  \n Twitter: @imohafa \n Github: @imohafa \n")
+print("     GetUPass  \n Twitter: @moodix94 \n Github: @im_985 \n")
 
 
 def UserName():
