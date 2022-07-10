@@ -1,6 +1,6 @@
 # GetUPass
 
-#### Very simple Python script to know your Username & Password on your terminal.
+#### Very simple Python script to know your Username & Password from your terminal.
 
 Just clone it & run it.
 >
